@@ -9,6 +9,11 @@
 			<key>orderHint</key>
 			<integer>1</integer>
 		</dict>
+		<key>02FactoryMethod.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
 		<key>DesignPattern.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -23,6 +28,11 @@
 			<true/>
 		</dict>
 		<key>5CCC09571E89644700BFC39B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5CD714CC1E8A257E00B2BEF3</key>
 		<dict>
 			<key>primary</key>
 			<true/>
