@@ -4,6 +4,11 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>01SImpleFactory.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>DesignPattern.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -12,6 +17,11 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>5C5E8D071E8A19670074CD26</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>5CCC09571E89644700BFC39B</key>
 		<dict>
 			<key>primary</key>
