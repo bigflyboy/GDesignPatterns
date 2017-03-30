@@ -24,6 +24,11 @@
 			<key>orderHint</key>
 			<integer>4</integer>
 		</dict>
+		<key>05Adapter.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
 		<key>DesignPattern.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -33,6 +38,11 @@
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
 		<key>5C5E8D071E8A19670074CD26</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5C9DDD6C1E8CF75B00554A3D</key>
 		<dict>
 			<key>primary</key>
 			<true/>
